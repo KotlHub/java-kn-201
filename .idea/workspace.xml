@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86525aa5-2ca9-4549-8567-edef78635040" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/BasicsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/FilesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/homework/code/Explorer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/homework/code/RandomString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/step/learning/AppTest.java" afterDir="false" />
+    <list default="true" id="86525aa5-2ca9-4549-8567-edef78635040" name="Changes" comment="lol">
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Literature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/OopDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,8 +72,19 @@
       <updated>1695031528528</updated>
       <workItem from="1695031529557" duration="704000" />
       <workItem from="1695114770895" duration="5374000" />
-      <workItem from="1695208275013" duration="324000" />
+      <workItem from="1695208275013" duration="1072000" />
+      <workItem from="1695373586060" duration="4599000" />
+      <workItem from="1695559826389" duration="397000" />
     </task>
+    <task id="LOCAL-00001" summary="lol">
+      <option name="closed" value="true" />
+      <created>1695208696793</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695208696793</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,5 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="lol" />
+    <option name="LAST_COMMIT_MESSAGE" value="lol" />
   </component>
 </project>
