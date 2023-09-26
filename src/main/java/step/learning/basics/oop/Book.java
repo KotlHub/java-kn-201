@@ -1,6 +1,7 @@
 package step.learning.basics.oop;
 
-public class Book extends Literature{
+public class Book extends Literature implements Copyable, Printable, Multiple {
+    private int count;
     private String author;
 
     public Book(String author, String title) {
@@ -20,5 +21,10 @@ public class Book extends Literature{
     public String GetCard() {
         return String.format("Book %s %s",
                 super.getTitle(), this.getAuthor());
+    }
+
+    @Override
+    public int GetCount() {
+        return count;
     }
 }
