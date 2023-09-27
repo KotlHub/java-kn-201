@@ -4,9 +4,10 @@ public class Book extends Literature implements Copyable, Printable, Multiple {
     private int count;
     private String author;
 
-    public Book(String author, String title) {
+    public Book(String author, String title, int count) {
         this.setAuthor(author);
         super.setTitle(title);
+        this.count = count;
     }
 
     public String getAuthor() {

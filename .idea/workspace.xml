@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86525aa5-2ca9-4549-8567-edef78635040" name="Changes" comment="lol">
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Copyable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Hologram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Journal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Multiple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Newspaper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Periodic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/book.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/OopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/OopDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +49,9 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -80,7 +77,8 @@
       <workItem from="1695208275013" duration="1072000" />
       <workItem from="1695373586060" duration="4599000" />
       <workItem from="1695559826389" duration="1116000" />
-      <workItem from="1695719997819" duration="1278000" />
+      <workItem from="1695719997819" duration="3562000" />
+      <workItem from="1695791669963" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="lol">
       <option name="closed" value="true" />
@@ -98,11 +96,30 @@
       <option name="project" value="LOCAL" />
       <updated>1695560298792</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lol">
+      <option name="closed" value="true" />
+      <created>1695721309205</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695721309205</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
