@@ -1,5 +1,6 @@
 package step.learning.basics.oop;
 
+@Serializable
 public class Journal extends Literature implements Copyable, Periodic, Printable, Multiple, Hologram {
     public Journal(String title, int number, int count) {
         this.count = count;

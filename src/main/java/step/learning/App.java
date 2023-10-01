@@ -1,5 +1,9 @@
 package step.learning;
 
+import com.google.inject.Guice;
+import com.google.inject.Injector;
+import step.learning.IOC.ConfigModule;
+import step.learning.IOC.IocDemo;
 import step.learning.basics.BasicsDemo;
 import step.learning.basics.FilesDemo;
 import step.learning.basics.oop.OopDemo;
@@ -13,7 +17,11 @@ public class App
 {
     public static void main( String[] args )
     {
-        new OopDemo().run();
+
+        Injector injector = Guice.createInjector( new ConfigModule());
+        IocDemo iocDemo = injector.getInstance(IocDemo.class);
+        iocDemo.run();
+        //new OopDemo().run();
 
 //        Scanner kbscaner = new Scanner(System.in);
 //        System.out.print("Type min length: ");

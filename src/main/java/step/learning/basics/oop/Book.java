@@ -1,5 +1,6 @@
 package step.learning.basics.oop;
 
+@Serializable
 public class Book extends Literature implements Copyable, Printable, Multiple {
     private int count;
     private String author;

@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86525aa5-2ca9-4549-8567-edef78635040" name="Changes" comment="lol">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/book.json" afterDir="false" />
+    <list default="true" id="86525aa5-2ca9-4549-8567-edef78635040" name="Changes" comment="too many changes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/IOC/ConfigModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/IOC/IocDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/IOC/services/hash/HashService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/IOC/services/hash/MD5HashService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Serializable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/OopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/OopDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Journal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Journal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -78,7 +84,9 @@
       <workItem from="1695373586060" duration="4599000" />
       <workItem from="1695559826389" duration="1116000" />
       <workItem from="1695719997819" duration="3562000" />
-      <workItem from="1695791669963" duration="310000" />
+      <workItem from="1695791669963" duration="3065000" />
+      <workItem from="1695978617218" duration="676000" />
+      <workItem from="1695983929946" duration="3837000" />
     </task>
     <task id="LOCAL-00001" summary="lol">
       <option name="closed" value="true" />
@@ -104,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695721309205</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="too many changes">
+      <option name="closed" value="true" />
+      <created>1695792014676</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695792014676</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +140,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="lol" />
-    <option name="LAST_COMMIT_MESSAGE" value="lol" />
+    <MESSAGE value="too many changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="too many changes" />
   </component>
 </project>
