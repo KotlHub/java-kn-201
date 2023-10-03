@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86525aa5-2ca9-4549-8567-edef78635040" name="Changes" comment="too many changes">
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/IOC/ConfigModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/IOC/IocDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/IOC/services/hash/HashService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/IOC/services/hash/MD5HashService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Serializable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/IOC/services/hash/SHA256.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/IOC/services/random/RandomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/IOC/services/random/RandomServiceV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/async/AsyncDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Journal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/basics/oop/Journal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/step/learning/IOC/ConfigModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/step/learning/IOC/ConfigModule.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +84,8 @@
       <workItem from="1695791669963" duration="3065000" />
       <workItem from="1695978617218" duration="676000" />
       <workItem from="1695983929946" duration="3837000" />
+      <workItem from="1696172432642" duration="50000" />
+      <workItem from="1696325057745" duration="4753000" />
     </task>
     <task id="LOCAL-00001" summary="lol">
       <option name="closed" value="true" />
@@ -120,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695792014676</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="too many changes">
+      <option name="closed" value="true" />
+      <created>1696172467538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696172467538</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
